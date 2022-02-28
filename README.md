@@ -1,2 +1,3 @@
-# paper-repo
- A repo of Knowledge graph Enhanced Pre-trained Models papers
+# KG-PLMs: 知识图谱增强预训练语言模型
+
+知识图谱增强预训练语言模型：论文、总结、综述
