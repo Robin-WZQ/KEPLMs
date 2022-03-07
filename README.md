@@ -1,4 +1,4 @@
-# KEPLMs: 知识增强预训练语言模型
+# KEPLMs: Knowledge-Enhanced Pretrained Language Models
 
 Must-read Papers on knowledge-enhanced pretrained language models.
 
