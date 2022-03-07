@@ -58,6 +58,12 @@ paper: [[2010.00309\] CoLAKE: Contextualized Language and Knowledge Embedding (a
 
 code: https://github.com/txsun1997/CoLAKE
 
+- SpanBERT
+
+paper: https://arxiv.org/abs/1907.10529
+
+code: https://github.com/facebookresearch/SpanBERT
+
 - KEPLER
 
 paper: [[1911.06136\] KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation (arxiv.org)](https://arxiv.org/abs/1911.06136)
