@@ -1,6 +1,6 @@
 # KEPLMs: 知识增强预训练语言模型
 
-知识增强预训练语言模型论文收集
+Must-read Papers on knowledge-enhanced pretrained language models.
 
 # 论文汇总
 
