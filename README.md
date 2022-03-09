@@ -16,6 +16,12 @@ paper: [[1911.02493\] SentiLARE: Sentiment-Aware Language Representation Learnin
 
 code: https://github.com/thu-coai/SentiLARE
 
+- LIBERT
+
+paper: [[1909.02339\] Specializing Unsupervised Pretraining Models for Word-Level Semantic Similarity (arxiv.org)](https://arxiv.org/abs/1909.02339)
+
+code: https://github.com/anlausch/LIBERT
+
 - KnowBERT
 
 paper: [[1909.04164\] Knowledge Enhanced Contextual Word Representations (arxiv.org)](https://arxiv.org/abs/1909.04164)
@@ -227,3 +233,10 @@ code: [PaddlePaddle/ERNIE: Official implementations for various pre-training mod
 paper: [[2107.02137\] ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation (arxiv.org)](https://arxiv.org/abs/2107.02137)
 
 demo: [HERE](https://wenxin.baidu.com/wenxin/ernie)
+
+### Survey
+
+- A Survey of Knowledge Enhanced Pre-trained Models [[paper]](https://arxiv.org/abs/2110.00269)
+
+- Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey [[paper]](https://arxiv.org/abs/2110.08455)
+
